@@ -1,6 +1,9 @@
-Ce fichier pr�sente le projet Exo partie 2:
+Ce fichier présente le projet Exo partie 2:
 
-Il permettera de mettre de fichier de test html contenant du Javascript :
+Il permet de mettre à disposition différent fichier contenant des exemples d'utilisation de JAVASCRIPT :
+
+
+Le projet contient les fichiers tests suivant :
 
 * test_js_alert.html
 * test_js_background.html
